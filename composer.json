@@ -1,0 +1,7 @@
+{
+    "name": "hancock/hancock-framework",
+    "description": "Hancock Framework, base of Hancock",
+    "license": "Apache-2.0",
+    "minimum-stability": "dev",
+    "require": {}
+}
